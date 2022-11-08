@@ -1,6 +1,17 @@
+1. 
 mytuple = ("apple", "banana", "cherry")
 myit = iter(mytuple)
 
 print(next(myit))
 print(next(myit))
 print(next(myit))
+
+
+
+2. 
+string = "HELLO"
+ch_iterator = iter(string)
+
+print(next(ch_iterator))
+print(next(ch_iterator))
+print(next(ch_iterator))
